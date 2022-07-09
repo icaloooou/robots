@@ -2,8 +2,8 @@ Projeto criado para publicações de robôs de scraping em forma de estudo e apr
 ----
 ### Tecnologias usadas:
 - python
-- biblioteca Scrapy
-- biblioteca Json
+  - biblioteca Scrapy
+  - biblioteca Json
 ----
 ### Robôs já criados:
 - Yamaha - concessionária
