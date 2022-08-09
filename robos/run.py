@@ -4,9 +4,9 @@ try:
         [
             'scrapy',
             'crawl',
-            'yamaha',
-            '-o',
-            'out.json',
+            'nacional_super',
+            #'-o',
+            #'out.json',
         ]
     )
 except SystemExit:
