@@ -6,6 +6,7 @@ Projeto criado para publicações de robôs de scraping em forma de estudo e apr
   - biblioteca Json
   - biblioteca Regex
   - biblioteca Unidecode
+  - biblioteca Pandas
 ----
 ### Robôs já criados:
 - Yamaha - concessionária
