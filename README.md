@@ -7,11 +7,15 @@ Projeto criado para publicações de robôs de scraping em forma de estudo e apr
   - biblioteca Regex
   - biblioteca Unidecode
   - biblioteca Pandas
+  - biblioteca Requests
+  - biblioteca BeautifulSoup
 ----
 ### Robôs já criados:
 - Yamaha - concessionária
 - Casas Bahia - artigos diversos
 - Nacional Supermercado - varejo alimentício
+- Censo 2022 - prévia da população 2022
+- Ceps Brasil - informações de ceps e seus respectivos endereços no Brasil
 ----
 #### Para rodar o robô:
 - fazer o git clone do projeto
